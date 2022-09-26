@@ -37,4 +37,4 @@ async def roulette(ctx, round_id):
     else:
         await ctx.send("Invalid round id")
 
-bot.run('')
+bot.run(''MTAyMzc4NjY0MTMzNDIyMjg3OQ.GB5U4_.osXLZFMZnRlBDkNspu7PC8xDyR-coY2lkcTeQQ')
